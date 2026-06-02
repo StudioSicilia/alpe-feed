@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Dorenweerd Alpe d&#x27;HuZes - Deelnemers</title>
-    <description>Live updates van Team Dorenweerd</description>
-    <link>https://studiosicilia.github.io/alpe-feed/</link>
-    <item>
-      <title>Wouter Arts</title>
-      <description>Team XL-1 • € 2950</description>
-    </item>
-    <item>
-      <title>Wouter Arts</title>
-      <description>Team XL-1 • € 2950</description>
-    </item>
-    <item>
-      <title>Zoë Kamphuis</title>
-      <description>Team XL-2 • € 2501</description>
-    </item>
-  </channel>
+<channel>
+<title>Deelnemers</title>
+<item>
+<title>SIMON VAN OORT</title>
+<description></description>
+</item>
+</channel>
 </rss>

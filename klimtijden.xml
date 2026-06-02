@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Dorenweerd Alpe d&#x27;HuZes - Klimtijden</title>
-    <description>Live klimupdates met bochttijden</description>
-    <link>https://studiosicilia.github.io/alpe-feed/</link>
-    <item>
-      <title>Wouter Arts</title>
-      <description>Beklimming 4 • Onderweg • Start 12:54</description>
-    </item>
-    <item>
-      <title>Wouter Arts</title>
-      <description>Beklimming 3 • Voltooid • Duur 01:40 • Start 09:55 • B16 10:17 • B9 10:45 • B7 10:54 • B3 11:16 • Finish 11:35</description>
-    </item>
-    <item>
-      <title>Zoë Kamphuis</title>
-      <description>Beklimming 1 • Onderweg • Start 11:22 • B16 11:41</description>
-    </item>
-  </channel>
+<channel>
+<title>Klimtijden</title>
+</channel>
 </rss>

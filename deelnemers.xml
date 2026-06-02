@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Dorenweerd Alpe d&#x27;HuZes - Deelnemers</title>
+    <description>Updates van Team Dorenweerd XL-1 en XL-2</description>
+    <link>http://localhost:8080/</link>
+    <item>
+      <title>Simon van Oort</title>
+      <description>Team XL-1 • Opgehaald: € 2.950</description>
+    </item>
+    <item>
+      <title>Jesse Kraaij</title>
+      <description>Team XL-1 • Opgehaald: € 2.742</description>
+    </item>
+    <item>
+      <title>Nadine Kers</title>
+      <description>Team XL-1 • Opgehaald: € 2.611</description>
+    </item>
+    <item>
+      <title>Rick Pruijn</title>
+      <description>Team XL-1 • Opgehaald: € 2.589</description>
+    </item>
+    <item>
+      <title>Senne Kentin</title>
+      <description>Team XL-1 • Opgehaald: € 1.516</description>
+    </item>
+    <item>
+      <title>Bram Alferink</title>
+      <description>Team XL-1 • Opgehaald: € 1.401</description>
+    </item>
+    <item>
+      <title>Tom van der Poel</title>
+      <description>Team XL-1 • Opgehaald: € 1.333</description>
+    </item>
+    <item>
+      <title>Rick Penterman (C)</title>
+      <description>Team XL-1 • Opgehaald: € 1.192</description>
+    </item>
+    <item>
+      <title>Joni Zwart</title>
+      <description>Team XL-1 • Opgehaald: € 832</description>
+    </item>
+    <item>
+      <title>Zoë Kamphuis</title>
+      <description>Team XL-2 • Opgehaald: € 2.501</description>
+    </item>
+    <item>
+      <title>Harro Zeelenberg</title>
+      <description>Team XL-2 • Opgehaald: € 2.361</description>
+    </item>
+    <item>
+      <title>Demyan van Eck</title>
+      <description>Team XL-2 • Opgehaald: € 1.959</description>
+    </item>
+    <item>
+      <title>Niek Linsen</title>
+      <description>Team XL-2 • Opgehaald: € 1.948</description>
+    </item>
+    <item>
+      <title>Daphne Timmer</title>
+      <description>Team XL-2 • Opgehaald: € 1.782</description>
+    </item>
+    <item>
+      <title>Joep Birner</title>
+      <description>Team XL-2 • Opgehaald: € 1.549</description>
+    </item>
+    <item>
+      <title>Mink Lebbink</title>
+      <description>Team XL-2 • Opgehaald: € 1.434</description>
+    </item>
+    <item>
+      <title>Olivier Dix</title>
+      <description>Team XL-2 • Opgehaald: € 1.246</description>
+    </item>
+    <item>
+      <title>David Nummerdor</title>
+      <description>Team XL-2 • Opgehaald: € 1.058</description>
+    </item>
+  </channel>
+</rss>

@@ -1,78 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<title>Deelnemers</title>
-<item>
-<title>SIMON VAN OORT</title>
-<description>Opgehaald: €3.201</description>
-</item>
-<item>
-<title>JESSE KRAAIJ</title>
-<description>Opgehaald: €3.450</description>
-</item>
-<item>
-<title>NADINE KERS</title>
-<description>Opgehaald: €2.611</description>
-</item>
-<item>
-<title>RICK PRUIJN</title>
-<description>Opgehaald: €2.589</description>
-</item>
-<item>
-<title>SENNE KENTIN</title>
-<description>Opgehaald: €2.367</description>
-</item>
-<item>
-<title>JONI ZWART</title>
-<description>Opgehaald: €1.601</description>
-</item>
-<item>
-<title>BRAM ALFERINK</title>
-<description>Opgehaald: €1.516</description>
-</item>
-<item>
-<title>TOM VAN DER POEL</title>
-<description>Opgehaald: €1.441</description>
-</item>
-<item>
-<title>RICK PENTERMAN</title>
-<description>Opgehaald: €1.355</description>
-</item>
-<item>
-<title>HARRO ZEELENBERG</title>
-<description>Opgehaald: €2.550</description>
-</item>
-<item>
-<title>ZOË KAMPHUIS</title>
-<description>Opgehaald: €2.501</description>
-</item>
-<item>
-<title>DEMYAN VAN ECK</title>
-<description>Opgehaald: €2.816</description>
-</item>
-<item>
-<title>NIEK LINSEN</title>
-<description>Opgehaald: €2.000</description>
-</item>
-<item>
-<title>OLIVIER DIX</title>
-<description>Opgehaald: €1.872</description>
-</item>
-<item>
-<title>MINK LEBBINK</title>
-<description>Opgehaald: €1.913</description>
-</item>
-<item>
-<title>JOEP BIRNER</title>
-<description>Opgehaald: €1.636</description>
-</item>
-<item>
-<title>DAPHNE TIMMER</title>
-<description>Opgehaald: €1.874</description>
-</item>
-<item>
-<title>DAVID NUMMERDOR</title>
-<description>Opgehaald: €1.084</description>
-</item>
-</channel>
+  <channel>
+    <title>Deelnemers</title>
+    <link>https://studiosicilia.github.io/alpe-feed/</link>
+    <description>Live feed Dorenweerd Alpe d'HuZes</description>
+    <item>
+      <title>SIMON VAN OORT</title>
+      <description>Team XL-1 | Opgehaald: €3.201</description>
+    </item>
+    <item>
+      <title>JESSE KRAAIJ</title>
+      <description>Team XL-1 | Opgehaald: €3.450</description>
+    </item>
+    <item>
+      <title>NADINE KERS</title>
+      <description>Team XL-1 | Opgehaald: €2.611</description>
+    </item>
+    <item>
+      <title>RICK PRUIJN</title>
+      <description>Team XL-1 | Opgehaald: €2.589</description>
+    </item>
+    <item>
+      <title>SENNE KENTIN</title>
+      <description>Team XL-1 | Opgehaald: €2.367</description>
+    </item>
+    <item>
+      <title>JONI ZWART</title>
+      <description>Team XL-1 | Opgehaald: €1.601</description>
+    </item>
+    <item>
+      <title>BRAM ALFERINK</title>
+      <description>Team XL-1 | Opgehaald: €1.516</description>
+    </item>
+    <item>
+      <title>TOM VAN DER POEL</title>
+      <description>Team XL-1 | Opgehaald: €1.441</description>
+    </item>
+    <item>
+      <title>RICK PENTERMAN</title>
+      <description>Team XL-1 | Opgehaald: €1.355</description>
+    </item>
+    <item>
+      <title>HARRO ZEELENBERG</title>
+      <description>Team XL-2 | Opgehaald: €2.550</description>
+    </item>
+    <item>
+      <title>ZOË KAMPHUIS</title>
+      <description>Team XL-2 | Opgehaald: €2.501</description>
+    </item>
+    <item>
+      <title>DEMYAN VAN ECK</title>
+      <description>Team XL-2 | Opgehaald: €2.816</description>
+    </item>
+    <item>
+      <title>NIEK LINSEN</title>
+      <description>Team XL-2 | Opgehaald: €2.000</description>
+    </item>
+    <item>
+      <title>OLIVIER DIX</title>
+      <description>Team XL-2 | Opgehaald: €1.872</description>
+    </item>
+    <item>
+      <title>MINK LEBBINK</title>
+      <description>Team XL-2 | Opgehaald: €1.913</description>
+    </item>
+    <item>
+      <title>JOEP BIRNER</title>
+      <description>Team XL-2 | Opgehaald: €1.636</description>
+    </item>
+    <item>
+      <title>DAPHNE TIMMER</title>
+      <description>Team XL-2 | Opgehaald: €1.874</description>
+    </item>
+    <item>
+      <title>DAVID NUMMERDOR</title>
+      <description>Team XL-2 | Opgehaald: €1.084</description>
+    </item>
+  </channel>
 </rss>

@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Klimtijden</title>
+    <title>Klimtijden per deelnemer</title>
     <link>https://studiosicilia.github.io/alpe-feed/</link>
     <description>Live feed Dorenweerd Alpe d'HuZes</description>
     <item>
       <title>SIMON VAN OORT</title>
-      <description>Team XL-1 | Klim 1 | Voltooid | Duur 01:49:00 | Start 04:40:00 | B16 05:07:00 | B9 05:39:00 | B7 05:48:00 | B3 06:11:00 | Finish 06:30:00</description>
-    </item>
-    <item>
-      <title>SIMON VAN OORT</title>
-      <description>Team XL-1 | Klim 2 | Onderwerg | Duur 02:09:00 | Start 07:14:00 | B16 07:39:00 | B9 08:13:00 | B7 08:27:00 | B3 08:49:00 | Finish 09:23:00</description>
+      <description>Team XL-1 | Klim 1 | Voltooid | Duur 01:49:00 | Start 04:40:00 | B16 05:07:00 | B9 05:39:00 | B7 05:48:00 | B3 06:11:00 | Finish 06:30:00 || Team XL-1 | Klim 2 | Onderwerg | Duur 02:09:00 | Start 07:14:00 | B16 07:39:00 | B9 08:13:00 | B7 08:27:00 | B3 08:49:00 | Finish 09:23:00</description>
     </item>
     <item>
       <title>JESSE KRAAIJ</title>
-      <description>Team XL-1 | Klim 1 | Voltooid | Duur 01:35:00 | Start 04:41:00 | B16 05:06:00 | B9 05:33:00 | B7 05:40:00 | B3 05:59:00 | Finish 06:16:00</description>
-    </item>
-    <item>
-      <title>JESSE KRAAIJ</title>
-      <description>Team XL-1 | Klim 2 | Voltooid | Duur 01:26:00 | Start 07:06:00 | B16 07:24:00 | B9 07:52:00 | B7 07:59:00 | B3 08:16:00 | Finish 08:32:00</description>
-    </item>
-    <item>
-      <title>JESSE KRAAIJ</title>
-      <description>Team XL-1 | Klim 3 | Onderwerg | Start 09:24:00</description>
+      <description>Team XL-1 | Klim 1 | Voltooid | Duur 01:35:00 | Start 04:41:00 | B16 05:06:00 | B9 05:33:00 | B7 05:40:00 | B3 05:59:00 | Finish 06:16:00 || Team XL-1 | Klim 2 | Voltooid | Duur 01:26:00 | Start 07:06:00 | B16 07:24:00 | B9 07:52:00 | B7 07:59:00 | B3 08:16:00 | Finish 08:32:00 || Team XL-1 | Klim 3 | Onderwerg | Start 09:24:00</description>
     </item>
     <item>
       <title>NADINE KERS</title>
